@@ -1,0 +1,91 @@
+PLOT REPORT
+-----------
+
+Report File    : U:\2-Sided-PCB-Template\2-Sided PCB Template (PCB - PLOT REPORT).txt
+Report Written : Tuesday, November 11, 2014
+Design Path    : U:\2-Sided-PCB-Template\2-Sided PCB Template.pcb
+Design Title   : 
+Created        : 11/11/2014 9:55:28 AM
+Last Saved     : 11/11/2014 10:15:16 AM
+Editing Time   : 19 min
+Units          : mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.3 format absolute mm.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.4 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "U:\2-Sided-PCB-Template\2-Sided PCB Template.mop"
+
+
+Gerber Output
+=============
+
+U:\2-Sided-PCB-Template\Plots\2-Sided PCB Template - PCB Board.gbr
+
+    Layers:
+    ----------------
+    Board Outlines
+
+    D-Code  Shape  (mm)
+    -------------------
+    D14     Round 0.127
+
+NC Drill Output
+===============
+
+U:\2-Sided-PCB-Template\Plots\2-Sided PCB Template - Drill Data - Through Hole.drl
+
+    Output:
+    ----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool   Size         Count    ID   (Plated/Unplated)
+    ---------------------------------------------------
+    T001   000.1270 mm  1
+    T002   000.8890 mm  4      G
+    ---------------------------------------------------
+    Total               5
+    ---------------------------------------------------
+
+Gerber Output
+=============
+
+U:\2-Sided-PCB-Template\Plots\2-Sided PCB Template - Y Axis Mirror Box.gbr
+
+    Layers:
+    -------------------
+    Top Documentation
+
+    D-Code  Shape  (mm)
+    -------------------
+    D14     Round 0.127
+
+End Of Report.
